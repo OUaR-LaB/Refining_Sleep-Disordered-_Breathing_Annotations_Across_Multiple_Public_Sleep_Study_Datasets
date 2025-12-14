@@ -15,8 +15,8 @@ Each dataset is handled with a dedicated conversion script to account for differ
 
 # Features
 
-- Input: raw EDF signal files + raw annotation files
-- Output: standardized sleep annotations consistent with AASM guidelines
+- Input: raw EDF signal files + raw annotation files (xml format)
+- Output: standardized sleep annotations consistent with AASM guidelines (xml format)
 - Supports sleep stages, arousals, respiratory events, body position, and related PSG events
 - Dataset-specific parsing and mapping for SHHS, MESA, and MrOS
 - Designed for reproducibility and large-scale cohort analysis
