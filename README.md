@@ -1,6 +1,9 @@
 # Refining_Sleep-Disordered-_Breathing_Annotations_Across_Multiple_Public_Sleep_Study_Datasets
 Standardized AASM-compliant refinement of sleep-disordered breathing annotations for SHHS, MrOS, and MESA datasets.
 
+[![JSR](https://img.shields.io/badge/Journal_of_Sleep_Research-e70264-005581.svg?style=flat-square)](https://doi.org/10.1111/jsr.70264) Refining SBD Annotations Across Multiple Public Sleep Study Datasets
+
+
 ![JSR](https://github.com/user-attachments/assets/51acd336-44bf-43e7-a549-41a4786312da)
 
 
